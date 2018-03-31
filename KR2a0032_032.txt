@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 宋史
-#+DATE: 2018-03-31 09:03:25.671041
+#+DATE: 2018-03-31 09:03:32.553659
 #+PROPERTY: ID KR2a0032
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 卷三十二
 <pb:KR2a0032_WYG_032-1a>¶
 欽定四庫全書¶
@@ -16,7 +16,7 @@
 ¶
 三十一年春正月甲戌朔以日食不受朝丁丑雷丁亥¶
 免湖州增丁所輸絹夜風雷雨雪交作辛夘詔江浙官¶
-民户均輸和市絁帛壬辰劉寳落節龯福建路居住丙¶
+民户均輸和市絁帛壬辰劉寳落節鉞福建路居住丙¶
 申大雨雪給三衙衞士行在貧民錢及薪炭命常平振¶
 <pb:KR2a0032_WYG_032-1b>¶
 給輔郡細民諸路監司決獄已亥放張浚胡銓自便庚¶

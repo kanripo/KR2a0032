@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 宋史
-#+DATE: 2018-03-31 09:03:26.292860
+#+DATE: 2018-03-31 09:03:33.657222
 #+PROPERTY: ID KR2a0032
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 卷八十八考證
 <pb:KR2a0032_WYG_089-1a>¶
 　宋史巻八十八考證¶
