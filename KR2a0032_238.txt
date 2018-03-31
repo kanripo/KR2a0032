@@ -1,0 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 宋史
+#+DATE: 2018-03-31 09:03:27.861415
+#+PROPERTY: ID KR2a0032
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: WITNESS WYG    
+#+PROPERTY: JUAN 卷二百三十八
+<pb:KR2a0032_WYG_238-1a>¶
+欽定四庫全書¶
+　宋史巻二百三十八¶
+元中書右丞相總裁托克托等修¶
+¶
+　世系表第二十九¶
+¶
+宗室世系二十四¶
+¶
+　¶
+　¶
+<pb:KR2a0032_WYG_238-1b>¶

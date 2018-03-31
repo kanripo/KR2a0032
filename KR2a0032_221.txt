@@ -1,0 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 宋史
+#+DATE: 2018-03-31 09:03:27.769950
+#+PROPERTY: ID KR2a0032
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: WITNESS WYG    
+#+PROPERTY: JUAN 卷二百二十一
+<pb:KR2a0032_WYG_221-1a>¶
+欽定四庫全書¶
+　宋史巻二百二十一¶
+元中書右丞相總裁托克托等修¶
+¶
+　世系表第十二¶
+¶
+宗室世系七¶
+¶
+　¶
+　¶
+<pb:KR2a0032_WYG_221-1b>¶
